@@ -1,1 +1,1 @@
-# Leetcodes and geeksforgeeks codes.
+# Leetcodes.
