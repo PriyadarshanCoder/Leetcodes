@@ -15,11 +15,13 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
