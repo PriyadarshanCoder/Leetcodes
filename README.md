@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
