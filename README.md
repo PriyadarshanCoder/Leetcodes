@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -35,4 +37,13 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
+| [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
