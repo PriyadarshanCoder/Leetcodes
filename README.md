@@ -7,11 +7,13 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +54,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
