@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -34,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0567-permutation-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -51,6 +53,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,4 +94,12 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0152-maximum-product-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
