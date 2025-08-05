@@ -1,22 +1,28 @@
 class Solution {
     public String reverseWords(String s) {
-         // Trim leading and trailing spaces
-        s = s.trim();
+        StringBuilder res = new StringBuilder(); // ① To build the final reversed string
+        int startIndex = s.length() - 1;         // ② Start scanning from the end of the string
 
-        // Split by one or more spaces using regex
-        String[] words = s.split("\\s+");
+        while (startIndex >= 0) {                // ③ Loop until the beginning of the string
+            while (startIndex >= 0 && s.charAt(startIndex) == ' ') {
+                startIndex--;                    // ④ Skip any trailing or extra spaces
+            }
+            if (startIndex < 0) break;           // ⑤ Exit if only spaces were found
 
-        // Use StringBuilder for efficient string concatenation
-        StringBuilder reversed = new StringBuilder();
+            int endIndex = startIndex;           // ⑥ Mark the end of the current word
 
-        // Append words in reverse order
-        for (int i = words.length - 1; i >= 0; i--) {
-            reversed.append(words[i]);
-            if (i != 0) {
-                reversed.append(" ");
+            while (startIndex >= 0 && s.charAt(startIndex) != ' ') {
+                startIndex--;                    // ⑦ Move backward to find the start of the word
+            }
+
+            // ⑧ Append the word to the result, with a space if it's not the first word
+            if (res.length() == 0) {
+                res.append(s.substring(startIndex + 1, endIndex + 1)); // ⑨ First word: append without space
+            } else {
+                res.append(" "); // ⑩ Add space before appending next word
+                res.append(s.substring(startIndex + 1, endIndex + 1)); // ⑪ Append the word
             }
         }
-
-        return reversed.toString();
+        return res.toString(); // ⑫ Return the final reversed words as a single string
     }
 }
