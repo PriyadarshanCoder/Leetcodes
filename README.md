@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
