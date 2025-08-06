@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
