@@ -52,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -96,6 +97,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0401-binary-watch) |
 ## Dynamic Programming
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
