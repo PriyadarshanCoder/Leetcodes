@@ -129,5 +129,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
