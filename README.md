@@ -52,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,4 +114,9 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
