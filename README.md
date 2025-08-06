@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0152-maximum-product-subarray](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0216-combination-sum-iii) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0401-binary-watch) |
