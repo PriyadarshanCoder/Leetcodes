@@ -15,6 +15,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |
@@ -22,6 +23,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -67,6 +70,7 @@
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -83,6 +87,7 @@
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
