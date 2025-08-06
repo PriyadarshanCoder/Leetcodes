@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0152-maximum-product-subarray](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0152-maximum-product-subarray) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
