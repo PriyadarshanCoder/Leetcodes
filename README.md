@@ -34,6 +34,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
@@ -103,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
@@ -126,5 +128,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
