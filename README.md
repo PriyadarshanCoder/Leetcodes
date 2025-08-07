@@ -18,6 +18,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -27,6 +28,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
