@@ -17,6 +17,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0567-permutation-in-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 | [0093-restore-ip-addresses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0401-binary-watch) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
