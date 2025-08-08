@@ -70,6 +70,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -180,4 +181,16 @@
 | [1046-max-consecutive-ones-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
