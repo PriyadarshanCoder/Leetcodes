@@ -199,6 +199,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -211,6 +212,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -224,11 +226,13 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0100-same-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
