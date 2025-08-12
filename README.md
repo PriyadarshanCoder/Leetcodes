@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0216-combination-sum-iii) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -193,6 +195,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -220,6 +223,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -237,6 +241,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
