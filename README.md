@@ -200,6 +200,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
@@ -214,6 +215,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
@@ -230,6 +232,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
@@ -246,6 +249,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
