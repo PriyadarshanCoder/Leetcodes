@@ -33,6 +33,7 @@
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1046-max-consecutive-ones-iii) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1370-count-number-of-nice-subarrays) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## String
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +259,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
