@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0093-restore-ip-addresses) |
