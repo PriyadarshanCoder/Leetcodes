@@ -26,6 +26,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2662-check-knight-tour-configuration](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
+| [2662-check-knight-tour-configuration](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2662-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2662-check-knight-tour-configuration](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2662-check-knight-tour-configuration](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -301,4 +305,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2662-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
