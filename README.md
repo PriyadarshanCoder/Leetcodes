@@ -118,6 +118,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
