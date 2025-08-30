@@ -83,6 +83,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -297,6 +300,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
