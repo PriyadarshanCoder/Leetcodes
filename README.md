@@ -90,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0189-rotate-array) |
@@ -177,6 +178,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
@@ -298,6 +300,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0234-palindrome-linked-list) |
