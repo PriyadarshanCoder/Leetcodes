@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -286,6 +288,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -310,6 +313,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
@@ -332,6 +336,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0173-binary-search-tree-iterator) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -345,4 +350,8 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2195-time-needed-to-buy-tickets) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
