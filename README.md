@@ -22,6 +22,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1036-rotting-oranges) |
 | [2662-check-knight-tour-configuration](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2662-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
@@ -279,6 +281,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1036-rotting-oranges](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1036-rotting-oranges) |
 | [2662-check-knight-tour-configuration](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Search Tree
 |  |
