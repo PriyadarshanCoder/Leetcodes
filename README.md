@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
@@ -49,6 +50,7 @@
 | [0205-isomorphic-strings](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -105,6 +107,7 @@
 | [0047-permutations-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0780-max-chunks-to-make-sorted) |
@@ -134,6 +137,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +161,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1034-subarrays-with-k-different-integers) |
 ## Bit Manipulation
@@ -175,11 +180,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -354,4 +361,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
