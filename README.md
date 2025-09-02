@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
@@ -222,6 +223,7 @@
 | [0110-balanced-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0173-binary-search-tree-iterator) |
@@ -246,6 +248,7 @@
 | [0110-balanced-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -272,6 +275,7 @@
 | [0110-balanced-binary-tree](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/PriyadarshanCoder/Leetcodes/tree/master/0173-binary-search-tree-iterator) |
